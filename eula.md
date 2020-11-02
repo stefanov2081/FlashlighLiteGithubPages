@@ -7,7 +7,7 @@ By installing or using the Application, you consent to be bound by this License.
 
 1. License Grant and Terms of Use.
 
-  A. Grant.
+    A. Grant.
   The Developer grants you a personal, limited, non-exclusive license to install and use the Application for your personal, noncommercial use solely as set forth in  this License and any accompanying documentation. Your acquired rights are subject to your compliance with this License. Any commercial use is prohibited. You are   expressly prohibited from sublicensing, renting, leasing or otherwise distributing the Application or rights to use the Application. The term of your license shall   commence on the date that you start to download, install or otherwise use the Application, and shall end on the earlier of the date that you dispose of the   Application; or the Developer's termination of this License.
 
   B. Copies.
