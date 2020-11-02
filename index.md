@@ -8,3 +8,4 @@ You can download it for free from [the Google Play Store](https://play.google.co
 \* Shake detection is active when the lock screen is active, e.g. the phone is locked and the screen is lit up.
 
 [End user license agreement](https://stefanov2081.github.io/Flashlight-Lite/end-user-license-agreement)
+[Privacy policy](https://stefanov2081.github.io/Flashlight-Lite/privacy-policy)
