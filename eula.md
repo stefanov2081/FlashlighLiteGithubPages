@@ -1,6 +1,6 @@
 # END USER LICENSE AGREEMENT FOR FLASHLIGHT LITE
 
-This End User License Agreement (“License”) is an agreement between you and Vladimir Stefanov refered to as "Developer".
+This End User License Agreement (“License”) is an agreement between you and Vladimir Stefanov referred to as the "Developer".
 This License governs your use of this application and all related software, documentation, and updates and upgrades that replace or supplement the application and are not distributed with a separate license (together, the “Application”). This Application is licensed to you free of charge. You do not own the Application.
 
 By installing or using the Application, you consent to be bound by this License.  If you do not agree to all of the terms of this License, then do not install or use the Application. IF YOU INSTALL THE APPLICATION, THE TERMS AND CONDITIONS OF THIS LICENSE ARE FULLY ACCEPTED BY YOU.  If you do not agree to any portion of this License, do not install or use the Application.
