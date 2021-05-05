@@ -1,4 +1,4 @@
-# END USER LICENSE AGREEMENT FOR FLASHLIGHT LITE (Old name), renamed to BRILLIANT.
+# END USER LICENSE AGREEMENT FOR FLASHLIGHT LITE (OLD NAME), RENAMED TO BRILLIANT.
 
 This End User License Agreement (“License”) is an agreement between you and Vladimir Stefanov referred to as the "Developer".
 This License governs your use of this application and all related software, documentation, and updates and upgrades that replace or supplement the application and are not distributed with a separate license (together, the “Application”). This Application is licensed to you free of charge. You do not own the Application.
